@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import altair
 
 import src.respostas as asw
 from src.extraction import load_data
